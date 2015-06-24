@@ -1,0 +1,41 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "roman.zherdin@gmail.com",
+    "longName": "LunchTracker",
+    "projectType": "native",
+    "resources": {
+        "media": [
+            {
+                "characterRegex": "[0-9:. ]",
+                "file": "fonts/Digit.ttf",
+                "name": "FONT_DIGIT_BOLD_38",
+                "type": "font"
+            },
+            {
+                "file": "images/Grey Forward.png",
+                "name": "forward_icon",
+                "type": "png-trans"
+            },
+            {
+                "file": "images/restaurant.png",
+                "name": "restaurant_icon",
+                "type": "png"
+            },
+            {
+                "file": "images/Grey Forw - Backward.png",
+                "name": "backward_icon",
+                "type": "png-trans"
+            }
+        ]
+    },
+    "sdkVersion": "3",
+    "shortName": "LunchTracker",
+    "uuid": "73214c92-564e-4815-9163-dd86e41e6186",
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": false
+    }
+}
